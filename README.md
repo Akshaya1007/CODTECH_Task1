@@ -86,3 +86,11 @@ Potential Extensions :
 Conclusion:
 
 This interactive quiz application is an excellent project for practicing JavaScript and enhancing web development skills. It integrates essential concepts like DOM manipulation, event handling, and responsive design, making it a valuable addition to your portfolio. By completing this project, you’ll demonstrate your ability to create functional, user-friendly web applications.
+
+
+
+
+
+![Screenshot_2024-09-01-17-22-23-962_com miui gallery](https://github.com/user-attachments/assets/d3b34178-a10e-45a2-95e8-336102989956)
+![Screenshot_2024-09-01-17-22-33-485_com miui gallery](https://github.com/user-attachments/assets/8f358d16-22a2-4d89-a750-4df63d254d83)
+
